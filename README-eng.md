@@ -4,7 +4,6 @@
 
 ### Task 1 API Gateway
 
-Normally Software Engineer, Frontend at LINE MAN Wongnai will be responsible for Web application and API Gateway, which is the single entry point for all clients and composition of microservices in our infrastructure.
 
 In this task, you have to develop an API Gateway to retrieve data from the provided JSON Data, with the requirement discussed in the next section.
 
@@ -12,7 +11,7 @@ In this task, you have to develop an API Gateway to retrieve data from the provi
 
 **Create API Gateway by using Typescript**
 
-- [ ] Create various endpoints and send data back so that the web can be displayed according to the design that is defined correctly.
+- [x] Create various endpoints and send data back so that the web can be displayed according to the design that is defined correctly.
 - [ ] Write a unit test for each endpoint created and ensures that each endpoint is always available and working properly
 
 
@@ -127,8 +126,6 @@ There are 2 restaurants with the following ID:
 
 ![](https://i.imgur.com/Xb7v6YT.png)
 
-Creating a web application is the main job that Software Engineer, Frontend at LINE MAN Wongnai is passionate about. Our core web technology is React.
-
 In this task, we need to create a React web application for reading menus when going to a restaurant. To help our users reduce the risk of spreading COVID-19 by ordering food at the restaurant without touching the menu book.
 
 For a better application, we always think about User Experience (UX) by allowing the web application to be added and modified differently from the design provided to improve the UX/UI of the website.
@@ -141,9 +138,9 @@ Create a web application for displaying menus with good UX in mind. Users will f
 
 The web application must be able to perform all of the following features:
 
-- [ ] Display details of each menu correctly
-- [ ] Display restaurant detail correctly
-- [ ] Can be used well on all screen sizes such as Desktop, Tablet, or Smartphone
+- [x] Display details of each menu correctly
+- [x] Display restaurant detail correctly
+- [x] Can be used well on all screen sizes such as Desktop, Tablet, or Smartphone
 
 And to control the quality of the code that will be sent to the user, we will need to do the following:
 
